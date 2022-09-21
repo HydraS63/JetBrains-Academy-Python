@@ -1,2 +1,1 @@
-# JetBrains-Academy-Python
-Jetbrains Academy Python track projects
+# JetBrains-Academy-Python track projects
