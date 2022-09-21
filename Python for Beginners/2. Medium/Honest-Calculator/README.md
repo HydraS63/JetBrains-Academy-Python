@@ -1,2 +1,2 @@
 # Honest Calculator
-Porject page: https://hyperskill.org/projects/208
+Project page: https://hyperskill.org/projects/208
